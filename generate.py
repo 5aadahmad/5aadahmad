@@ -2,10 +2,15 @@
 
 Run locally with `python generate.py`. With GITHUB_TOKEN set (as in the workflow) the GitHub stats
 are fetched live; without it the fallback numbers below are used.
+
+The workflow's own token sees public contributions only. The contribution count therefore needs
+STATS_TOKEN, a personal token of this account (read-only); without it the count already on the card
+is kept rather than replaced by the public-only number.
 """
 import datetime
 import json
 import os
+import re
 import urllib.request
 from xml.sax.saxutils import escape
 
@@ -13,7 +18,7 @@ USER = "5aadahmad"
 # Uptime is age in years. The full birthday comes from the BIRTHDAY secret (YYYY-MM-DD) so it never
 # appears in this public repo; without it the age is counted from the birth year alone.
 BIRTH_YEAR = 1998
-FALLBACK_STATS = {"repos": 3, "stars": 7, "contributions": 3231, "followers": 0}
+FALLBACK_STATS = {"repos": 4, "stars": 7, "contributions": 3231, "followers": 0}
 
 WIDTH = 66  # characters per info line
 
@@ -53,7 +58,8 @@ INFO_X, INFO_Y, INFO_LINE_H, INFO_FONT = 440, 40, 20, 13.5
 
 
 def fetch_stats():
-    token = os.environ.get("GITHUB_TOKEN")
+    stats_token = os.environ.get("STATS_TOKEN")
+    token = stats_token or os.environ.get("GITHUB_TOKEN")
     if not token:
         return FALLBACK_STATS
     query = """query($login: String!) { user(login: $login) {
@@ -67,12 +73,25 @@ def fetch_stats():
     )
     with urllib.request.urlopen(req, timeout=30) as r:
         u = json.load(r)["data"]["user"]
+    contributions = u["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+    if not stats_token:
+        contributions = current_contributions()
     return {
         "repos": u["repositories"]["totalCount"],
         "stars": sum(n["stargazerCount"] for n in u["repositories"]["nodes"]),
-        "contributions": u["contributionsCollection"]["contributionCalendar"]["totalContributions"],
+        "contributions": contributions,
         "followers": u["followers"]["totalCount"],
     }
+
+
+def current_contributions():
+    """The count on the card now, or the fallback if there is no card yet."""
+    try:
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "card.svg"), encoding="utf-8") as f:
+            m = re.search(r"Contributions \(last year\).*?class=\"value\">([\d,]+)<", f.read())
+        return int(m.group(1).replace(",", ""))
+    except (OSError, AttributeError):
+        return FALLBACK_STATS["contributions"]
 
 
 def uptime(today):
