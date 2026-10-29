@@ -48,7 +48,7 @@ INFO = [
     "GitHub Stats",
     ("Repos", "{repos} public"),
     ("Stars", "{stars}"),
-    ("Contributions (last year)", "{contributions}"),
+    ("Contributions", "{contributions}"),
 ]
 
 COLORS = {"bg": "#161b22", "art": "#c9d1d9", "text": "#c9d1d9", "key": "#ffa657", "value": "#a5d6ff", "dots": "#616e7f"}
@@ -88,7 +88,7 @@ def current_contributions():
     """The count on the card now, or the fallback if there is no card yet."""
     try:
         with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "card.svg"), encoding="utf-8") as f:
-            m = re.search(r"Contributions \(last year\).*?class=\"value\">([\d,]+)<", f.read())
+            m = re.search(r"Contributions</tspan>.*?class=\"value\">([\d,]+)<", f.read())
         return int(m.group(1).replace(",", ""))
     except (OSError, AttributeError):
         return FALLBACK_STATS["contributions"]
