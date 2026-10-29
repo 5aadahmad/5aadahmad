@@ -51,7 +51,8 @@ INFO = [
     ("Contributions", "{contributions}"),
 ]
 
-COLORS = {"bg": "#161b22", "art": "#c9d1d9", "text": "#c9d1d9", "key": "#ffa657", "value": "#a5d6ff", "dots": "#616e7f"}
+COLORS = {"bg": "#1a0f14",  # IMMOTISS "Real Dark" (CI colour sheet)
+           "art": "#c9d1d9", "text": "#c9d1d9", "key": "#ffa657", "value": "#a5d6ff", "dots": "#616e7f"}
 
 ART_X, ART_Y, ART_CELL_W, ART_LINE_H = 20, 28, 4.0, 8.0
 INFO_X, INFO_Y, INFO_LINE_H, INFO_FONT = 440, 40, 20, 13.5

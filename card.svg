@@ -3,7 +3,7 @@
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 .key {fill: #ffa657;} .value {fill: #a5d6ff;} .dots {fill: #616e7f;} .text {fill: #c9d1d9;} .art {fill: #c9d1d9; font-size: 6.67px;} text, tspan {white-space: pre;}
 </style>
-<rect width="1004px" height="620px" fill="#161b22" rx="15"/>
+<rect width="1004px" height="620px" fill="#1a0f14" rx="15"/>
 <text class="art">
 <tspan x="20" y="66.0" textLength="160.0" lengthAdjust="spacingAndGlyphs">                                    ____</tspan>
 <tspan x="20" y="74.0" textLength="216.0" lengthAdjust="spacingAndGlyphs">                               jag@E%@@@@@@888@@g%%%c_</tspan>
