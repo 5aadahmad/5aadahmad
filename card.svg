@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="1004px" height="620px" font-size="13.5px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .dots {fill: #616e7f;} .text {fill: #c9d1d9;} .art {fill: #c9d1d9; font-size: 6.67px;} text, tspan {white-space: pre;}
+</style>
+<rect width="1004px" height="620px" fill="#161b22" rx="15"/>
+<text class="art">
+<tspan x="20" y="66.0" textLength="160.0" lengthAdjust="spacingAndGlyphs">                                    ____</tspan>
+<tspan x="20" y="74.0" textLength="216.0" lengthAdjust="spacingAndGlyphs">                               jag@E%@@@@@@888@@g%%%c_</tspan>
+<tspan x="20" y="82.0" textLength="252.0" lengthAdjust="spacingAndGlyphs">                            jg@8E$g%C3%@g8%2%%%%8%gE%8%%%gaus__</tspan>
+<tspan x="20" y="90.0" textLength="264.0" lengthAdjust="spacingAndGlyphs">                         _gEgEgL%%%gdC?8%%E%8Es3%%Ej%8%88g@@@@@8%_</tspan>
+<tspan x="20" y="98.0" textLength="268.0" lengthAdjust="spacingAndGlyphs">                       _g@%%%$%/%8E??lc?%%8@8%***%sj*sC%%8%@8%%$8@%</tspan>
+<tspan x="20" y="106.0" textLength="276.0" lengthAdjust="spacingAndGlyphs">                      3@E%Es%2%cE%*?%***?c*?l*__'"**'*"33g8E*3%8%%8g_</tspan>
+<tspan x="20" y="114.0" textLength="280.0" lengthAdjust="spacingAndGlyphs">                     3@@%c%%%j%C?%c_'ssc'"""***"_""''"""%%%cc%%?cjj%@L</tspan>
+<tspan x="20" y="122.0" textLength="284.0" lengthAdjust="spacingAndGlyphs">                    aE%8%%%%%$%c*?**?**"',c?l''.""'''''""'%**c_ss%%%%@p</tspan>
+<tspan x="20" y="130.0" textLength="288.0" lengthAdjust="spacingAndGlyphs">                  _g8%%E%ss%%*l"'*c*"*""""?c*'' '_'''_"'''*"'_*""l?%s%8$</tspan>
+<tspan x="20" y="138.0" textLength="292.0" lengthAdjust="spacingAndGlyphs">               _gg2%%%*%$%2|cc"",c"_c* "_,"**_' ""'*;''  '''*'":."sjj3@%8</tspan>
+<tspan x="20" y="146.0" textLength="296.0" lengthAdjust="spacingAndGlyphs">              s@g$%%"cs%/%%%%"";,cj*'_*sj&gt;"?".'.'',''.'.'''''''''"%%%c%8@g</tspan>
+<tspan x="20" y="154.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">              3g8%Ej%_*cls*cj3"sC""',*c*''_"''  '.'.''''"'' ''''''*.%%%%g@%</tspan>
+<tspan x="20" y="162.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">              3@E%%%%%%j*%c?l,'c'' .*_*_"''**_'_c"****""_' '  .'''****jg@@E</tspan>
+<tspan x="20" y="170.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">              $@@pg%%%c3c"*csc'" ''"***?|s*c*cc*ccccc*sscc,     ''"*'*?l%8*</tspan>
+<tspan x="20" y="178.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">              @@@%g%s*"*'"c   '_cccccsss%%%sscccscccs%%%%%sc*_'' '''''"c%8L</tspan>
+<tspan x="20" y="186.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">              @@8%%%c"'c__" .cs%%s%%%%%%%%cs%sss%s%%s%%%%%%%sc*__  '','**?%_</tspan>
+<tspan x="20" y="194.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">              @@@8%l"_*'"" .j%%%%%%%%%%%%%%%s%%%%%%%%%%%%%%%%%sssc,''''"**%L</tspan>
+<tspan x="20" y="202.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">              3@@%%%s"'_   3%%%%%%%%%%%%%%%%s%%%%%%%%%%%%%%%%%%%%%c__ ',"sgL</tspan>
+<tspan x="20" y="210.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">                 %E%Eccc  j%%%%%%%%%%%%%%%%%%%%%%%%%%%%%gg$g%%%%%%%%%' '3F*</tspan>
+<tspan x="20" y="218.0" textLength="292.0" lengthAdjust="spacingAndGlyphs">                  %8Ecc' _@888%%%%%%%%%%%%%%%%%%%%%%%%%888$8888gg88gg"."s</tspan>
+<tspan x="20" y="226.0" textLength="296.0" lengthAdjust="spacingAndGlyphs">                  ?E%C'' g@@88%%%%%%%%%%%?*%%%%%%%%Cj____icsssss%8@@@L "%_</tspan>
+<tspan x="20" y="234.0" textLength="296.0" lengthAdjust="spacingAndGlyphs">                   E8%%_ $@@88%g%jj|i,ss&lt;&gt;&lt;&gt;%%%%%%C%"',;*"""""^^*%u2%p '?%</tspan>
+<tspan x="20" y="242.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">                   %E3%%.3@@@@P%S&gt;**"^^^?%sc_%%%*&gt;*:**l*__jsss%%%s8@%3L_"?_</tspan>
+<tspan x="20" y="250.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">                   "E%E_s%@@P_p%cs%ccc*'"*?%8L_s__. *"**"*?%jj3%%%8@EL 3'?c</tspan>
+<tspan x="20" y="258.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">                    %E%E*?@P'@8%E%%s**""''''"8_E%%_ c'' ''   "?%%%%8g[$3'"'</tspan>
+<tspan x="20" y="266.0" textLength="296.0" lengthAdjust="spacingAndGlyphs">                    3E%sc3L_"@888%%%"      .s8.g88g_'L_____c_js_/j%%@L@L'"</tspan>
+<tspan x="20" y="274.0" textLength="296.0" lengthAdjust="spacingAndGlyphs">                     g%c,3@@_@%%%P___,,'''_3E'3@888gL'%%%cccc**?j%%%8j@L'"</tspan>
+<tspan x="20" y="282.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">                     3p%c%8E%3%c38%l*""_s3%gFj@@8gg@@% %ggg%%%$g@@@8%8@E _j</tspan>
+<tspan x="20" y="290.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                      %%cjg@@%3%jscccs%%%%8^_@@@888@@gp_'?%%@8@88%Cg88g@_%8L</tspan>
+<tspan x="20" y="298.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                      j%c_@@@%%C%%%%%%%%%* 3@@@@@8g@8P%@E_s%sjjssa888g8@%%gL</tspan>
+<tspan x="20" y="306.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                     ?8pj%$@@8$8%ccll^*_"__8E___%@EL__s%%%%j%88888888@8@L38L</tspan>
+<tspan x="20" y="314.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                      %E?%g@@gg8%ssssscc*s%gE8%%?lj*''''"?%%%s%%8%88888@L?%L</tspan>
+<tspan x="20" y="322.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                      3E*_%@@@@8%%ssss*c%%%l'     ''        '""?%%%%8g88L"gL</tspan>
+<tspan x="20" y="330.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                      ?C"*3@@88%%%%%s***"  .'    ___ss__'   '   $g88%%%3c'@L</tspan>
+<tspan x="20" y="338.0" textLength="304.0" lengthAdjust="spacingAndGlyphs">                       %_js%88E%%%%%c''' .cscc**""**"_c______'  $g8%*s*j*'@L</tspan>
+<tspan x="20" y="346.0" textLength="300.0" lengthAdjust="spacingAndGlyphs">                       3@E%%%%8%*?%%c_  '__sapggg@8888%%88%%%sc%$8%s*"**'_8</tspan>
+<tspan x="20" y="354.0" textLength="296.0" lengthAdjust="spacingAndGlyphs">                        8g%%%%%%_c?%%%_'3%@@@@8%l'''' '_%g@@8%%8%%%c""c*3"</tspan>
+<tspan x="20" y="362.0" textLength="292.0" lengthAdjust="spacingAndGlyphs">                        *@E%%s%%%c'?%%%s%g8@@@8%j_ssscs%%888$%%8%%%"""*_L</tspan>
+<tspan x="20" y="370.0" textLength="288.0" lengthAdjust="spacingAndGlyphs">                          3@g%%c%s**?%%%%@@88%%%%%%%%%%%%%%%%8%%%*"""""$</tspan>
+<tspan x="20" y="378.0" textLength="288.0" lengthAdjust="spacingAndGlyphs">                           %@p%*jc***cs%%8E%s*|**%%%C?%sc***?%**"""**"3L</tspan>
+<tspan x="20" y="386.0" textLength="284.0" lengthAdjust="spacingAndGlyphs">                            %@%%l*cc_*""*%%%E_''"*""*""""'",""''''''*c$</tspan>
+<tspan x="20" y="394.0" textLength="284.0" lengthAdjust="spacingAndGlyphs">                             8@E%c*%l*c_,.c3$" '  ''"' ''-''''''""'**%E</tspan>
+<tspan x="20" y="402.0" textLength="280.0" lengthAdjust="spacingAndGlyphs">                             "@g%%3C%*?c**c,,*.''''     '' ' .'.''*s%g</tspan>
+<tspan x="20" y="410.0" textLength="280.0" lengthAdjust="spacingAndGlyphs">                              3@%%8j%c?*_,"'"'''''      ' ''''. "c*%%F</tspan>
+<tspan x="20" y="418.0" textLength="276.0" lengthAdjust="spacingAndGlyphs">                               @@g8%%j**%cc__, .'''_,_"  .'''_****c%8</tspan>
+<tspan x="20" y="426.0" textLength="276.0" lengthAdjust="spacingAndGlyphs">                               3@@g8%%%s?"*j_*'''.'""*c*^c' _''_cs%gE</tspan>
+<tspan x="20" y="434.0" textLength="276.0" lengthAdjust="spacingAndGlyphs">                               ?@@888%%%%%cl?*_"''   """"*""**cs%%8@c</tspan>
+<tspan x="20" y="442.0" textLength="272.0" lengthAdjust="spacingAndGlyphs">                               3@@88888$%%%%%ssscc___ccccccss%%%%%8@</tspan>
+<tspan x="20" y="450.0" textLength="272.0" lengthAdjust="spacingAndGlyphs">                              _@@@8888888%%%%%%%%%%sssss%%%%%%%%%%8@</tspan>
+<tspan x="20" y="458.0" textLength="272.0" lengthAdjust="spacingAndGlyphs">                            sg@@@@8888888%%%%%%%%%%%%%%%%%%%%%%%%%g8</tspan>
+<tspan x="20" y="466.0" textLength="272.0" lengthAdjust="spacingAndGlyphs">                    _sap88%%%%%%%%888gg8gg%%%%%%%%%%%%%%%%%%%%%%%%@E</tspan>
+<tspan x="20" y="474.0" textLength="272.0" lengthAdjust="spacingAndGlyphs">            _jsap888%%%%%%%%sccc**"""""?%%%8g8ggg%%%%%%%%%%%%%%%%%8g</tspan>
+<tspan x="20" y="482.0" textLength="272.0" lengthAdjust="spacingAndGlyphs">saap8888%%%%%%%%%%%%%%%%?c?c*c**c*",'''''..''  '""*%%%ggg%%%%%%%%%8@</tspan>
+<tspan x="20" y="490.0" textLength="276.0" lengthAdjust="spacingAndGlyphs">%%%%%%%%%s%%%%%ssccsscccccc****c****,,:"','''''        '"^f%%88gggg@g</tspan>
+<tspan x="20" y="498.0" textLength="292.0" lengthAdjust="spacingAndGlyphs">ss?sccssscccccc*?ccs?ccc**cccc**"""*'"',",'"'''.''..'          '_**?3%%sc</tspan>
+<tspan x="20" y="506.0" textLength="308.0" lengthAdjust="spacingAndGlyphs">ccc**c*****cccs*c**|cc*/s**cc*c**""*_*__"''**"','"'''.'_''''''' .._"*css%%%%_</tspan>
+<tspan x="20" y="514.0" textLength="316.0" lengthAdjust="spacingAndGlyphs">*"*c"*""***sc*ccc**c?ssscccccrcc***;*"**""'c""'_"*"'":',_'":",*'"***"c?scs%%%8%</tspan>
+<tspan x="20" y="522.0" textLength="332.0" lengthAdjust="spacingAndGlyphs">***c;*"""*?s***?*cc?jcc?sss*cc*slcc***"-"*__c",""*",*"""*"""*"*"**^cc*c?3c%%%%%%8%c</tspan>
+<tspan x="20" y="530.0" textLength="348.0" lengthAdjust="spacingAndGlyphs">"*"*"cc/"*sc""***/s%?/cs*?ccllc*c*c***""****""""-*c"""**c**c"*"_?c?*csc/?cs?%%%3%%%8%%c</tspan>
+<tspan x="20" y="538.0" textLength="372.0" lengthAdjust="spacingAndGlyphs">'_***"*c_"c**_'***c*ccjcs&gt;***?***(*;,*"*^**"c*"c"!"^""*"c_",""^*c***c?cc)*?cs???slc%%%%%%%%s_</tspan>
+<tspan x="20" y="546.0" textLength="388.0" lengthAdjust="spacingAndGlyphs">''""",*:",*"'''*c***)**"*"***""*"c":'"-_,";""""""""***'^"*_""*c*c**c**?*|*?*c***?sssl?sscssl3%%%c</tspan>
+<tspan x="20" y="554.0" textLength="400.0" lengthAdjust="spacingAndGlyphs">'''''''','_,.'"'"c:"'')^.*,"_*,**"'_"*"*'"*"*"^"";"^***':";""_**"_c*_c"****c**"******ccc********l%%s</tspan>
+</text>
+<text x="440" y="40">
+<tspan x="440" y="40"><tspan class="key">saad</tspan><tspan class="text">@</tspan><tspan class="key">ahmad</tspan><tspan class="text"> ───────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="440" y="60"><tspan class="text">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="dots"> ................................................. </tspan><tspan class="value">Tech Lead</tspan></tspan>
+<tspan x="440" y="80"><tspan class="text">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="dots"> .............................................. </tspan><tspan class="value">28 years</tspan></tspan>
+<tspan x="440" y="100"><tspan class="text">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="dots"> ................................................. </tspan><tspan class="value">Germany</tspan></tspan>
+<tspan x="440" y="120"><tspan class="text">. </tspan><tspan class="key">Kernel</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">Healthcare data &amp; AI platforms</tspan></tspan>
+<tspan x="440" y="140"><tspan class="text">. </tspan><tspan class="key">IDE</tspan><tspan class="text">:</tspan><tspan class="dots"> .................................................. </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="440" y="160"><tspan class="text">.</tspan></tspan>
+<tspan x="440" y="180"><tspan class="text">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="text">:</tspan><tspan class="dots"> .... </tspan><tspan class="value">Python, JavaScript, TypeScript, SQL</tspan></tspan>
+<tspan x="440" y="200"><tspan class="text">. </tspan><tspan class="key">Languages.Computer</tspan><tspan class="text">:</tspan><tspan class="dots"> ........... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Markdown</tspan></tspan>
+<tspan x="440" y="220"><tspan class="text">.</tspan></tspan>
+<tspan x="440" y="240"><tspan class="text">. </tspan><tspan class="key">Stack.Backend</tspan><tspan class="text">:</tspan><tspan class="dots"> ................ </tspan><tspan class="value">FastAPI, SQLAlchemy, PostgreSQL</tspan></tspan>
+<tspan x="440" y="260"><tspan class="text">. </tspan><tspan class="key">Stack.Frontend</tspan><tspan class="text">:</tspan><tspan class="dots"> ................................... </tspan><tspan class="value">React, Vite</tspan></tspan>
+<tspan x="440" y="280"><tspan class="text">. </tspan><tspan class="key">Stack.AI</tspan><tspan class="text">:</tspan><tspan class="dots"> ................. </tspan><tspan class="value">Claude, OpenAI, MCP, RAG, LangGraph</tspan></tspan>
+<tspan x="440" y="300"><tspan class="text">. </tspan><tspan class="key">Stack.Infra</tspan><tspan class="text">:</tspan><tspan class="dots"> ...... </tspan><tspan class="value">Azure, Railway, Docker, Kubernetes, Actions</tspan></tspan>
+<tspan x="440" y="320"><tspan class="text">.</tspan></tspan>
+<tspan x="440" y="340"><tspan class="text">. </tspan><tspan class="key">Building</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................................ </tspan><tspan class="value">TRX Platform</tspan></tspan>
+<tspan x="440" y="360"><tspan class="text">. </tspan><tspan class="key">Built</tspan><tspan class="text">:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">f_case, f_trace, K8s ML autoscaling</tspan></tspan>
+<tspan x="440" y="380"><tspan class="text">.</tspan></tspan>
+<tspan x="440" y="400"><tspan class="text">. </tspan><tspan class="key">Hobbies</tspan><tspan class="text">:</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">Playing guitar, cooking</tspan></tspan>
+<tspan x="440" y="420"><tspan class="text"></tspan></tspan>
+<tspan x="440" y="440"><tspan class="text">- Contact ────────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="440" y="460"><tspan class="text">. </tspan><tspan class="key">Website</tspan><tspan class="text">:</tspan><tspan class="dots"> ....................................... </tspan><tspan class="value">saadahmadx.com</tspan></tspan>
+<tspan x="440" y="480"><tspan class="text">. </tspan><tspan class="key">GitHub</tspan><tspan class="text">:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">github.com/5aadahmad</tspan></tspan>
+<tspan x="440" y="500"><tspan class="text"></tspan></tspan>
+<tspan x="440" y="520"><tspan class="text">- GitHub Stats ───────────────────────────────────────────────────</tspan></tspan>
+<tspan x="440" y="540"><tspan class="text">. </tspan><tspan class="key">Repos</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................................... </tspan><tspan class="value">3 public</tspan></tspan>
+<tspan x="440" y="560"><tspan class="text">. </tspan><tspan class="key">Stars</tspan><tspan class="text">:</tspan><tspan class="dots"> ...................................................... </tspan><tspan class="value">7</tspan></tspan>
+<tspan x="440" y="580"><tspan class="text">. </tspan><tspan class="key">Contributions (last year)</tspan><tspan class="text">:</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">3,231</tspan></tspan>
+</text>
+</svg>
