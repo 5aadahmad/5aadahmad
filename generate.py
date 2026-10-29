@@ -39,7 +39,7 @@ INFO = [
     ("Stack.Infra", "Azure, Railway, Docker, Kubernetes, Actions"),
     None,
     ("Building", "TRX Platform"),
-    ("Built", "f_case, f_trace, K8s ML autoscaling"),
+    ("Built", "Pulse, Thoughtspace"),
     None,
     ("Hobbies", "Playing guitar, cooking"),
     "Contact",
